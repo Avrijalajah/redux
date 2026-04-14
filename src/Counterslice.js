@@ -5,3 +5,5 @@ export const counterSlice = createSlice({
   initialState: 0,
   reducers: {}
 });
+
+export default counterSlice;
